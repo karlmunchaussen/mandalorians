@@ -128,7 +128,7 @@ The data cleaning process involves filling NaN values with 0 by `fillna(0)`.  Wh
 replace([np.inf, -np.inf], np.nan, inplace=True)
 ```
 
-![Data Cleaning for female software developers in Bronx](data_cleaning_software_bronx_female)
+![Data Cleaning for female software developers in Bronx](images/data_cleaning_software_bronx_female.jpg)
 
 
 _**Please see further details on data fetching and cleaning processes by clicking on the links below:**_
