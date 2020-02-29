@@ -157,7 +157,7 @@ _**Please see further details on data fetching and cleaning processes by clickin
 ### Analysis
 
 #### Geographic Map
-![Map Tool on NYC Jobs by Borough](images/job_map_tool.png)
+![Map Tool on NYC Jobs by Borough](images/job_map_tool.jpg)
 
 #### Relation with Demographic Factors
 ![Inter-depencencies of NYC Economic Indices](images/parallel_economic_index.jpg)
@@ -186,8 +186,8 @@ For trajectories of future job trends, we used monte-carlo simulation in python.
 
 
 
-![Financial Specialists in Manhattan](images/monte_carlo_finance_30yrs_manhattan.png)
-![Software Developers in Manhattan](images/monte_carlo_finance_30yrs_manhattan.png)
+![30-year Trajectories of Full-time Financial Specialists in Queens](images/monte_carlo_finance_30yrs_queens.png)
+![Probability Distribution of Full-time Financial Specialists in Queens in 2028](images/monte_carlo_queens_finance_freq_density_hist_decade.png)
 ![Trajectory Comparison of Full-time Financial Specialists vs. Software Developers in Manhattan](images/monte_carlo_finance_vs_software_30yrs_manhattan.jpg)
 
 
