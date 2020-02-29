@@ -128,7 +128,7 @@ The data cleaning process involves filling NaN values with 0 by `fillna(0)`.  Wh
 replace([np.inf, -np.inf], np.nan, inplace=True)
 ```
 
-[!Data Cleaning for female software developers in Bronx](data_cleaning_software_bronx_female)
+![Data Cleaning for female software developers in Bronx](data_cleaning_software_bronx_female)
 
 
 _**Please see further details on data fetching and cleaning processes by clicking on the links below:**_
@@ -157,19 +157,19 @@ _**Please see further details on data fetching and cleaning processes by clickin
 ### Analysis
 
 #### Geographic Map
-[!Map Tool on NYC Jobs by Borough](images/job_map_tool.png)
+![Map Tool on NYC Jobs by Borough](images/job_map_tool.png)
 
 #### Relation with Demographic Factors
-[!Inter-depencencies of NYC Economic Indices](images/parallel_economic_index.jpg)
+![Inter-depencencies of NYC Economic Indices](images/parallel_economic_index.jpg)
 
-[!Factors Influencing the Number of Full-time Female Software Developers in NYC](images/parallel_coordinates_software_developers_female.jpg)
+![Factors Influencing the Number of Full-time Female Software Developers in NYC](images/parallel_coordinates_software_developers_female.jpg)
 
 ##### Education Degree
-[!Bachelors in Bronx](images/bronx_bach_pie.png)
-[!Bachelors in ](images/brooklyn_bach_pie.png)
-[!Bachelors in Bronx](images/manhattan_bach_pie.png)
-[!Bachelors in Bronx](images/queens_bach_pie.png)
-[!Bachelors in Bronx](images/statenisland_bach_pie.png)
+![Bachelors in Bronx](images/bronx_bach_pie.png)
+![Bachelors in ](images/brooklyn_bach_pie.png)
+![Bachelors in Bronx](images/manhattan_bach_pie.png)
+![Bachelors in Bronx](images/queens_bach_pie.png)
+![Bachelors in Bronx](images/statenisland_bach_pie.png)
 
 ##### Inter-dependencies
 
@@ -186,10 +186,9 @@ For trajectories of future job trends, we used monte-carlo simulation in python.
 
 
 
-[!Financial Specialists in Manhattan](images/monte_carlo_finance_30yrs_manhattan)
-[!Software Developers in Manhattan](images/monte_carlo_finance_30yrs_manhattan)
-[!Bachelors in Bronx](images/statenisland_bach_pie)
-[!Bachelors in Bronx](images/statenisland_bach_pie)
+![Financial Specialists in Manhattan](images/monte_carlo_finance_30yrs_manhattan.png)
+![Software Developers in Manhattan](images/monte_carlo_finance_30yrs_manhattan.png)
+![Trajectory Comparison of Full-time Financial Specialists vs. Software Developers in Manhattan](images/monte_carlo_finance_vs_software_30yrs_manhattan.jpg)
 
 
 
