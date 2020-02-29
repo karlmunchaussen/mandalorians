@@ -73,8 +73,8 @@ c_2004 = Census(api_key, year=2004)
 </details> 
 
 <details><summary>
-Step 3 - Use
-`c_2018.acs1.get` to fetch ACS1 data for year 2018. </summary> 
+Step 3 - Use `c_2018.acs1.get`
+ to fetch ACS1 data for year 2018. </summary> 
 For year 2017, use `c_2017.acs1.get`. Same rules apply to other years to as early as 2010.
 </details>
 
