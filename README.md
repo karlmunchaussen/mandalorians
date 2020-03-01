@@ -170,6 +170,9 @@ _**Please see further details on data fetching and cleaning processes by clickin
     * Official documents are posted on [Python](https://pypi.org/project/sodapy/)
     * Examples are available on [Github](https://github.com/socrata/socrata-py)
 
+## Launching the Dashboard
+* The main application is located in the **dashboard** folder. To run the application, open a command prompt, change to the directory containing **dashboard.py** and run **bokeh serve --show dashboard.py**. This runs a bokeh server locally and will automatically open the interactive dashboard in your browser at localhost:5006.
+
 ### Analysis
 
 #### Geographic Map
