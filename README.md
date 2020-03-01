@@ -151,7 +151,7 @@ _**Please see further details on data fetching and cleaning processes by clickin
 [Data concatening](monte_carlo/Coding/census_data_2010_2018.ipynb
 )
 
-### Python Libraries
+## Python Libraries
 * **census** 
     * Step 1: Install on Bash: 
         * ```pip install census```
@@ -163,11 +163,11 @@ _**Please see further details on data fetching and cleaning processes by clickin
         * ```pip install us```
     * Step 2: import on Python
         * ```from us import states```
-     
+   
 * **sodapy**
 
 
-### Analysis
+## Analysis
 
 #### Geographic Map
 ![Map Tool on NYC Jobs by Borough](images/job_map_tool.jpg)
@@ -179,14 +179,14 @@ _**Please see further details on data fetching and cleaning processes by clickin
 
 ![Factors Influencing the Number of Full-time Female Software Developers in NYC](images/parallel_coordinates_software_developers_female.jpg)
 
-##### Education Degree
+#### Education Degree
 ![Bachelors in Bronx](images/bronx_bach_pie.png)
 ![Bachelors in ](images/brooklyn_bach_pie.png)
 ![Bachelors in Bronx](images/manhattan_bach_pie.png)
 ![Bachelors in Bronx](images/queens_bach_pie.png)
 ![Bachelors in Bronx](images/statenisland_bach_pie.png)
 
-##### Inter-dependencies
+#### Inter-dependencies
 
 
 
